@@ -10,7 +10,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <!-- dev 1 changes -->
+        <!-- dev 1 changes  -->
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
